@@ -1,0 +1,268 @@
+[
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills",
+    "section": "",
+    "text": "My technical background combines Economics and Econometrics with practical capabilities in Data Analytics, Business Intelligence, Data Science, Machine Learning, forecasting, and research reporting.\n\n\n\n\nApplied Economics\nEconomic Research\nMacroeconomics\nFinancial Economics\nPolicy Analysis\nApplied Econometrics\nTime-Series Analysis\nStatistical Modelling\nForecasting\n\n\n\n\n\nVector Autoregression (VAR)\nStructural Vector Autoregression (SVAR)\nVector Error Correction Model (VECM)\nARIMA and ARMA Modelling\nADF and KPSS Unit Root Tests\nJohansen Cointegration\nGranger Causality\nImpulse Response Functions\nForecast Error Variance Decomposition\n\n\n\n\n\nData Collection and Preparation\nData Cleaning and Validation\nExploratory Data Analysis\nSQL Analytics\nGoogle BigQuery\nMicrosoft Excel\nMicrosoft Power BI\nTableau\nKPI Reporting\nDashboard Development\nData Visualization\nBusiness Insights\n\n\n\n\n\nPython\nPandas\nNumPy\nScikit-learn\nRegression\nClassification\nRandom Forest\nK-Means Clustering\nFeature Engineering\nPredictive Modelling\nModel Evaluation\nForecasting\n\n\n\n\n\nNatural Language Processing\nText Preprocessing\nN-Gram Analysis\nNamed Entity Recognition\nBERT Feasibility Analysis\nRetrieval-Augmented Generation\nGenerative AI Applications\nTechnical Workflow Documentation\n\n\n\n\n\nR\nStata\nEViews\nPython\nJupyter Notebook\nGoogle Colab\nQuarto\nLaTeX\nGit and GitHub\nReproducible Analysis\nResearch Documentation\nTechnical Reporting"
+  },
+  {
+    "objectID": "skills.html#core-expertise",
+    "href": "skills.html#core-expertise",
+    "title": "Skills",
+    "section": "",
+    "text": "My technical background combines Economics and Econometrics with practical capabilities in Data Analytics, Business Intelligence, Data Science, Machine Learning, forecasting, and research reporting.\n\n\n\n\nApplied Economics\nEconomic Research\nMacroeconomics\nFinancial Economics\nPolicy Analysis\nApplied Econometrics\nTime-Series Analysis\nStatistical Modelling\nForecasting\n\n\n\n\n\nVector Autoregression (VAR)\nStructural Vector Autoregression (SVAR)\nVector Error Correction Model (VECM)\nARIMA and ARMA Modelling\nADF and KPSS Unit Root Tests\nJohansen Cointegration\nGranger Causality\nImpulse Response Functions\nForecast Error Variance Decomposition\n\n\n\n\n\nData Collection and Preparation\nData Cleaning and Validation\nExploratory Data Analysis\nSQL Analytics\nGoogle BigQuery\nMicrosoft Excel\nMicrosoft Power BI\nTableau\nKPI Reporting\nDashboard Development\nData Visualization\nBusiness Insights\n\n\n\n\n\nPython\nPandas\nNumPy\nScikit-learn\nRegression\nClassification\nRandom Forest\nK-Means Clustering\nFeature Engineering\nPredictive Modelling\nModel Evaluation\nForecasting\n\n\n\n\n\nNatural Language Processing\nText Preprocessing\nN-Gram Analysis\nNamed Entity Recognition\nBERT Feasibility Analysis\nRetrieval-Augmented Generation\nGenerative AI Applications\nTechnical Workflow Documentation\n\n\n\n\n\nR\nStata\nEViews\nPython\nJupyter Notebook\nGoogle Colab\nQuarto\nLaTeX\nGit and GitHub\nReproducible Analysis\nResearch Documentation\nTechnical Reporting"
+  },
+  {
+    "objectID": "skills.html#how-i-apply-these-skills",
+    "href": "skills.html#how-i-apply-these-skills",
+    "title": "Skills",
+    "section": "How I Apply These Skills",
+    "text": "How I Apply These Skills\nI use these tools and methods to clean and analyse economic and business datasets, estimate statistical and econometric models, identify trends and relationships, develop forecasts, build dashboards, evaluate Machine Learning models, and communicate findings through clear reports and visualizations.\nProjects\nExperience\nGitHub"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "The following projects demonstrate applied work across economic research, econometrics, statistical modelling, forecasting, SQL analytics, dashboards, Machine Learning, NLP, and Retrieval-Augmented Generation.\n\n\n\nFocus: Macroeconomics, Econometrics, and Time-Series Analysis Tools: VAR, SVAR, VECM, ARIMA, R, Stata, and Quarto\nApplied macroeconometric methods to more than 44 quarters of data covering GDP, government spending, tax revenue, inflation, and the policy rate. Conducted stationarity testing, cointegration analysis, Granger causality, impulse-response analysis, and forecasting.\nView on GitHub\n\n\n\nFocus: Customer Analytics, Segmentation, and Forecasting Tools: Python, Pandas, K-Means, Prophet, and Statistical Analysis\nCleaned more than one million raw records into 584,524 validated transactions covering 115,326 customers. Applied customer segmentation, customer lifetime-value analysis, clustering, and sales forecasting to produce analytical findings and recommendations.\nView on GitHub\n\n\n\nFocus: SQL Analytics, Customer Analysis, and KPI Reporting Tools: SQL, Google BigQuery, CTEs, and Window Functions\nQueried and segmented 50,000 customer records using SQL, Common Table Expressions, window functions, ranking methods, and data-quality checks. Produced customer-value analysis, churn insights, KPI summaries, and decision-ready outputs.\nView on GitHub\n\n\n\nFocus: Labour Economics, Policy Analysis, and Business Intelligence Tools: Tableau, World Bank Data, Trend Analysis, and Forecasting\nAnalysed more than 57,500 employment observations across 183 countries. Examined long-term labour-market and gender trends, developed forecasts through 2030, and presented the findings through an interactive Tableau dashboard.\nView on GitHub\n\n\n\nFocus: Natural Language Processing, Text Analytics, and Transformer Research Tools: Python, Pandas, NLTK, Scikit-learn, Named Entity Recognition, and BERT\nConducted an NLP and BERT feasibility study using 120,000 AG News training articles across four categories. Performed text profiling, preprocessing, n-gram analysis, Named Entity Recognition, and transformer-architecture planning.\nView on GitHub\n\n\n\nFocus: Generative AI, Banking Information, and Retrieval-Augmented Generation Tools: Python, NLP, and RAG\nDeveloped a banking-focused Retrieval-Augmented Generation project designed to retrieve relevant information and support structured responses to banking-related queries.\nView on GitHub"
+  },
+  {
+    "objectID": "projects.html#selected-portfolio",
+    "href": "projects.html#selected-portfolio",
+    "title": "Projects",
+    "section": "",
+    "text": "The following projects demonstrate applied work across economic research, econometrics, statistical modelling, forecasting, SQL analytics, dashboards, Machine Learning, NLP, and Retrieval-Augmented Generation.\n\n\n\nFocus: Macroeconomics, Econometrics, and Time-Series Analysis Tools: VAR, SVAR, VECM, ARIMA, R, Stata, and Quarto\nApplied macroeconometric methods to more than 44 quarters of data covering GDP, government spending, tax revenue, inflation, and the policy rate. Conducted stationarity testing, cointegration analysis, Granger causality, impulse-response analysis, and forecasting.\nView on GitHub\n\n\n\nFocus: Customer Analytics, Segmentation, and Forecasting Tools: Python, Pandas, K-Means, Prophet, and Statistical Analysis\nCleaned more than one million raw records into 584,524 validated transactions covering 115,326 customers. Applied customer segmentation, customer lifetime-value analysis, clustering, and sales forecasting to produce analytical findings and recommendations.\nView on GitHub\n\n\n\nFocus: SQL Analytics, Customer Analysis, and KPI Reporting Tools: SQL, Google BigQuery, CTEs, and Window Functions\nQueried and segmented 50,000 customer records using SQL, Common Table Expressions, window functions, ranking methods, and data-quality checks. Produced customer-value analysis, churn insights, KPI summaries, and decision-ready outputs.\nView on GitHub\n\n\n\nFocus: Labour Economics, Policy Analysis, and Business Intelligence Tools: Tableau, World Bank Data, Trend Analysis, and Forecasting\nAnalysed more than 57,500 employment observations across 183 countries. Examined long-term labour-market and gender trends, developed forecasts through 2030, and presented the findings through an interactive Tableau dashboard.\nView on GitHub\n\n\n\nFocus: Natural Language Processing, Text Analytics, and Transformer Research Tools: Python, Pandas, NLTK, Scikit-learn, Named Entity Recognition, and BERT\nConducted an NLP and BERT feasibility study using 120,000 AG News training articles across four categories. Performed text profiling, preprocessing, n-gram analysis, Named Entity Recognition, and transformer-architecture planning.\nView on GitHub\n\n\n\nFocus: Generative AI, Banking Information, and Retrieval-Augmented Generation Tools: Python, NLP, and RAG\nDeveloped a banking-focused Retrieval-Augmented Generation project designed to retrieve relevant information and support structured responses to banking-related queries.\nView on GitHub"
+  },
+  {
+    "objectID": "projects.html#complete-project-portfolio",
+    "href": "projects.html#complete-project-portfolio",
+    "title": "Projects",
+    "section": "Complete Project Portfolio",
+    "text": "Complete Project Portfolio\nI maintain 29 documented GitHub repositories covering Economics, Econometrics, Data Analytics, Data Science, Machine Learning, Business Intelligence, forecasting, SQL, NLP, and RAG.\nThese repositories contain code, notebooks, analytical reports, dashboards, visualizations, model outputs, and reproducible documentation where available.\nView All GitHub Repositories Economic Analysis Projects Data Science & ML Projects"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Quaid-i-Azam University, Islamabad | February 2026–Present | Hybrid\n\nReview economic literature and organize evidence for faculty-supervised research.\nCollect, clean, validate, and maintain datasets using Python and Google Colab.\nConduct quantitative and statistical analysis and prepare analytical tables, visualizations, and findings summaries.\nDocument research methods and maintain reproducible analytical workflows and structured research outputs."
+  },
+  {
+    "objectID": "experience.html#graduate-research-assistant",
+    "href": "experience.html#graduate-research-assistant",
+    "title": "Experience",
+    "section": "",
+    "text": "Quaid-i-Azam University, Islamabad | February 2026–Present | Hybrid\n\nReview economic literature and organize evidence for faculty-supervised research.\nCollect, clean, validate, and maintain datasets using Python and Google Colab.\nConduct quantitative and statistical analysis and prepare analytical tables, visualizations, and findings summaries.\nDocument research methods and maintain reproducible analytical workflows and structured research outputs."
+  },
+  {
+    "objectID": "experience.html#independent-economic-data-science-analyst",
+    "href": "experience.html#independent-economic-data-science-analyst",
+    "title": "Experience",
+    "section": "Independent Economic & Data Science Analyst",
+    "text": "Independent Economic & Data Science Analyst\nSelf-Directed | GitHub | March 2025–Present | Remote\n\nConduct independent analysis across Economics, Econometrics, Data Analytics, Data Science, and Machine Learning.\nApply Python, SQL, R, Stata, EViews, Scikit-learn, Google BigQuery, Power BI, and Tableau to economic and business datasets.\nDevelop reproducible notebooks, predictive models, forecasts, dashboards, visualizations, analytical tables, and research summaries.\nMaintain documented independent and academic/research work within a broader portfolio of 29 GitHub projects.\n\nView GitHub Portfolio"
+  },
+  {
+    "objectID": "experience.html#data-science-intern",
+    "href": "experience.html#data-science-intern",
+    "title": "Experience",
+    "section": "Data Science Intern",
+    "text": "Data Science Intern\nArch Technologies | 1 May–30 June 2026 | Remote\n\nCompleted projects in classification, stock-price forecasting, customer segmentation, and movie-rating prediction.\nApplied Python, Pandas, NumPy, Scikit-learn, TensorFlow/Keras, K-Means, Random Forest, and statistical evaluation methods.\nSegmented 1,000 customer records into six interpretable groups and produced customer profiles and business recommendations.\nDocumented data preparation, model evaluation, visualizations, findings, and reproducible analytical workflows."
+  },
+  {
+    "objectID": "experience.html#data-science-intern-1",
+    "href": "experience.html#data-science-intern-1",
+    "title": "Experience",
+    "section": "Data Science Intern",
+    "text": "Data Science Intern\nCodeAlpha | 10 May–10 June 2026 | Remote\n\nDeveloped advertising-sales and used-car-price prediction workflows using Python, Pandas, and Scikit-learn.\nCompared Linear Regression, Random Forest, and Gradient Boosting using MAE, RMSE, and R-squared.\nAchieved an R-squared of 98.13% with a Random Forest model in the advertising-sales project.\nDocumented data cleaning, exploratory data analysis, model comparison, predictions, and analytical findings."
+  },
+  {
+    "objectID": "experience.html#aiml-engineering-intern",
+    "href": "experience.html#aiml-engineering-intern",
+    "title": "Experience",
+    "section": "AI/ML Engineering Intern",
+    "text": "AI/ML Engineering Intern\nDevelopersHub Corporation | 11 May–22 June 2026 | Remote\n\nDeveloped Python-based workflows for classification, regression, Natural Language Processing, and Retrieval-Augmented Generation applications.\nAnalysed 120,000 news articles using NLP preprocessing, n-gram analysis, Named Entity Recognition, and transformer-feasibility assessment.\nDesigned and documented a BERT-based news-classification workflow and contributed to a banking-focused RAG assistant project.\nPrepared technical documentation and stakeholder-ready explanations and received the Best Intern Award."
+  },
+  {
+    "objectID": "experience.html#experience-overview",
+    "href": "experience.html#experience-overview",
+    "title": "Experience",
+    "section": "Experience Overview",
+    "text": "Experience Overview\nMy experience combines faculty-supervised economic research, independent project development, and practical internships across Data Science, Machine Learning, Econometrics, forecasting, SQL analytics, NLP, RAG, and Business Intelligence.\nExplore Selected Projects"
+  },
+  {
+    "objectID": "economic-analysis.html",
+    "href": "economic-analysis.html",
+    "title": "Economic Analysis",
+    "section": "",
+    "text": "Macroeconomics and applied econometrics\nVAR, SVAR, VECM, and ARIMA\nStationarity, cointegration, causality, IRFs, and FEVD\nEconomic forecasting and policy-oriented analysis\nFinancial economics and labour-market analytics"
+  },
+  {
+    "objectID": "economic-analysis.html#areas-of-work",
+    "href": "economic-analysis.html#areas-of-work",
+    "title": "Economic Analysis",
+    "section": "",
+    "text": "Macroeconomics and applied econometrics\nVAR, SVAR, VECM, and ARIMA\nStationarity, cointegration, causality, IRFs, and FEVD\nEconomic forecasting and policy-oriented analysis\nFinancial economics and labour-market analytics"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Shad Ali Shah",
+    "section": "",
+    "text": "My Master CV presents my combined background in Economics, Econometrics, Economic Research, Data Analytics, Data Science, Machine Learning, and Business Intelligence.\nFor specific job applications, I tailor this CV according to the position requirements while keeping all qualifications and experience accurate.\n\n Download Master CV"
+  },
+  {
+    "objectID": "cv.html#master-cv",
+    "href": "cv.html#master-cv",
+    "title": "Shad Ali Shah",
+    "section": "",
+    "text": "My Master CV presents my combined background in Economics, Econometrics, Economic Research, Data Analytics, Data Science, Machine Learning, and Business Intelligence.\nFor specific job applications, I tailor this CV according to the position requirements while keeping all qualifications and experience accurate.\n\n Download Master CV"
+  },
+  {
+    "objectID": "cv.html#cv-format",
+    "href": "cv.html#cv-format",
+    "title": "Shad Ali Shah",
+    "section": "CV Format",
+    "text": "CV Format\nThe Master CV is available in PDF format for downloading and sharing with recruiters."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am an entry-level Economics and Data professional with completed MPhil Economics coursework and thesis, ongoing experience as a Graduate Research Assistant, three Data Science and AI/ML internships, and 29 documented multidisciplinary projects.\nMy background combines Applied Economics, Econometrics, Economic Research, Data Analytics, Business Intelligence, Data Science, and Machine Learning. I use Python, SQL, R, Stata, EViews, Excel, Power BI, and Tableau to clean and analyse data, develop models and forecasts, create dashboards, and communicate actionable insights."
+  },
+  {
+    "objectID": "about.html#professional-profile",
+    "href": "about.html#professional-profile",
+    "title": "About",
+    "section": "",
+    "text": "I am an entry-level Economics and Data professional with completed MPhil Economics coursework and thesis, ongoing experience as a Graduate Research Assistant, three Data Science and AI/ML internships, and 29 documented multidisciplinary projects.\nMy background combines Applied Economics, Econometrics, Economic Research, Data Analytics, Business Intelligence, Data Science, and Machine Learning. I use Python, SQL, R, Stata, EViews, Excel, Power BI, and Tableau to clean and analyse data, develop models and forecasts, create dashboards, and communicate actionable insights."
+  },
+  {
+    "objectID": "about.html#areas-of-expertise",
+    "href": "about.html#areas-of-expertise",
+    "title": "About",
+    "section": "Areas of Expertise",
+    "text": "Areas of Expertise\n\nEconomic research, applied econometrics, and policy analysis\nQuantitative analysis, statistical modelling, and time-series forecasting\nData cleaning, validation, exploratory data analysis, and SQL analytics\nPower BI and Tableau dashboards, KPI reporting, and business intelligence\nRegression, classification, clustering, predictive modelling, NLP, and RAG\nReproducible analysis, research documentation, and technical reporting"
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "About",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nMy experience includes faculty-supervised economic research at Quaid-i-Azam University, three analytics internships, and independent project work across economic, financial, customer, employment, and transactional datasets.\nExplore Projects"
+  },
+  {
+    "objectID": "about.html#career-interests",
+    "href": "about.html#career-interests",
+    "title": "About",
+    "section": "Career Interests",
+    "text": "Career Interests\nI am interested in entry-level opportunities as a:\n\nData Analyst\nEconomic Analyst\nEconomic Research Analyst\nBusiness Intelligence Analyst\nQuantitative Analyst\nAssociate Data Scientist\nJunior Machine Learning Professional"
+  },
+  {
+    "objectID": "about.html#location-and-availability",
+    "href": "about.html#location-and-availability",
+    "title": "About",
+    "section": "Location and Availability",
+    "text": "Location and Availability\nBased in Islamabad, Pakistan and available for full-time employment. Open to onsite, hybrid, and remote opportunities across Pakistan, and willing to relocate to any city for the right opportunity. Also open to employer-sponsored international opportunities.\nView Master CV\nContact Me"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: shadalishah45@gmail.com\nWhatsApp: +923348901607\nLinkedIn: linkedin.com/in/shadalishah\nGitHub: github.com/shadalishah\nDiscord: shadalis\nLocation: Islamabad, Pakistan"
+  },
+  {
+    "objectID": "contact.html#connect",
+    "href": "contact.html#connect",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: shadalishah45@gmail.com\nWhatsApp: +923348901607\nLinkedIn: linkedin.com/in/shadalishah\nGitHub: github.com/shadalishah\nDiscord: shadalis\nLocation: Islamabad, Pakistan"
+  },
+  {
+    "objectID": "data-science.html",
+    "href": "data-science.html",
+    "title": "Data Science & Machine Learning",
+    "section": "",
+    "text": "Regression, classification, clustering, forecasting, feature engineering, model evaluation, NLP, transformer feasibility analysis, and retrieval-augmented generation."
+  },
+  {
+    "objectID": "data-science.html#methods",
+    "href": "data-science.html#methods",
+    "title": "Data Science & Machine Learning",
+    "section": "",
+    "text": "Regression, classification, clustering, forecasting, feature engineering, model evaluation, NLP, transformer feasibility analysis, and retrieval-augmented generation."
+  },
+  {
+    "objectID": "data-science.html#tools",
+    "href": "data-science.html#tools",
+    "title": "Data Science & Machine Learning",
+    "section": "Tools",
+    "text": "Tools\nPython, Pandas, NumPy, Scikit-learn, TensorFlow/Keras, SQL, Google BigQuery, R, Power BI, Tableau, Google Colab, Git, and GitHub."
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Quaid-i-Azam University, Islamabad\n2025–2026 | CGPA: 3.50/4.00\nCompleted all coursework and finished the thesis within the applicable academic timeline. The completed thesis has written approval from the faculty supervisor; formal university submission remains pending until the university’s prescribed submission period.\nFocus Areas: Applied Economics, Econometrics, Macroeconomics, Quantitative Research, Time-Series Analysis, Data Science, and Machine Learning.\nCurrent Status: Available for full-time employment."
+  },
+  {
+    "objectID": "education.html#mphil-economics",
+    "href": "education.html#mphil-economics",
+    "title": "Education",
+    "section": "",
+    "text": "Quaid-i-Azam University, Islamabad\n2025–2026 | CGPA: 3.50/4.00\nCompleted all coursework and finished the thesis within the applicable academic timeline. The completed thesis has written approval from the faculty supervisor; formal university submission remains pending until the university’s prescribed submission period.\nFocus Areas: Applied Economics, Econometrics, Macroeconomics, Quantitative Research, Time-Series Analysis, Data Science, and Machine Learning.\nCurrent Status: Available for full-time employment."
+  },
+  {
+    "objectID": "education.html#bs-economics-graduated-with-distinction",
+    "href": "education.html#bs-economics-graduated-with-distinction",
+    "title": "Education",
+    "section": "BS Economics — Graduated with Distinction",
+    "text": "BS Economics — Graduated with Distinction\nKohat University of Science and Technology\n2020–2024 | CGPA: 3.89/4.00\nGraduated with Distinction after completing quantitative and research-based coursework in Economics.\nRelevant Coursework: Econometrics, Applied Econometrics, Statistics, Mathematical Economics, Macroeconomics, Microeconomics, Development Economics, Monetary Economics, Financial Institutions and Markets, Public Finance and Fiscal Policy, and Research Methodology.\nUndergraduate Thesis: The Influence of Biofuel Consumption on Environmental Sustainability in Developed Countries."
+  },
+  {
+    "objectID": "education.html#academic-foundation",
+    "href": "education.html#academic-foundation",
+    "title": "Education",
+    "section": "Academic Foundation",
+    "text": "Academic Foundation\nMy academic background combines economic theory, applied econometrics, statistical analysis, quantitative research, forecasting, and data-driven approaches to economic and policy questions.\nEconomic Analysis\nView Master CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Turning complex data into evidence-based decisions",
+    "section": "",
+    "text": "ECONOMICS · DATA SCIENCE · MACHINE LEARNING\n\n\n\nI combine Applied Economics, Econometrics, Data Analytics, Data Science, and Machine Learning to turn economic and business data into clear models, dashboards, forecasts, and practical insights.\nExplore my work View CV Contact"
+  },
+  {
+    "objectID": "index.html#professional-focus",
+    "href": "index.html#professional-focus",
+    "title": "Turning complex data into evidence-based decisions",
+    "section": "Professional focus",
+    "text": "Professional focus\n\n\n📊 Economic Research\nTime-series analysis, VAR/SVAR/VECM, causality and cointegration testing.\n\n\n🧹 Data Engineering\nData cleaning, validation, SQL analytics, reproducible reporting pipelines.\n\n\n📈 Business Intelligence\nPower BI and Tableau dashboards, KPI reporting, decision-ready insights.\n\n\n🤖 Machine Learning\nStatistical modelling, forecasting, NLP, and RAG pipelines."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications & Research Output",
+    "section": "",
+    "text": "I have published and documented 29 project repositories on GitHub across Economics, Econometrics, Data Analytics, Data Science, Machine Learning, Business Intelligence, forecasting, NLP, and RAG.\nThese repositories include code, notebooks, analytical reports, dashboards, visualizations, model outputs, and reproducible documentation where available.\nView GitHub repositories"
+  },
+  {
+    "objectID": "publications.html#documented-github-work",
+    "href": "publications.html#documented-github-work",
+    "title": "Publications & Research Output",
+    "section": "",
+    "text": "I have published and documented 29 project repositories on GitHub across Economics, Econometrics, Data Analytics, Data Science, Machine Learning, Business Intelligence, forecasting, NLP, and RAG.\nThese repositories include code, notebooks, analytical reports, dashboards, visualizations, model outputs, and reproducible documentation where available.\nView GitHub repositories"
+  },
+  {
+    "objectID": "publications.html#research-papers-in-progress",
+    "href": "publications.html#research-papers-in-progress",
+    "title": "Publications & Research Output",
+    "section": "Research papers in progress",
+    "text": "Research papers in progress\nI have started working on research papers related to my academic and analytical interests. These papers are currently works in progress and will be listed here only after reaching an appropriate publication or preprint stage.\n\nThis section distinguishes published GitHub project work from academic papers currently in development."
+  }
+]
