@@ -1,0 +1,76 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.hero}
+::: {.hero-inner}
+
+::: {.hero-copy}
+
+::: {.eyebrow}
+ECONOMICS · DATA SCIENCE · MACHINE LEARNING
+:::
+
+# Turning complex data into evidence-based decisions
+
+I combine **Applied Economics, Econometrics, Data Analytics, Data Science, and Machine Learning** to turn economic and business data into clear models, dashboards, forecasts, and practical insights.
+
+[Explore my work](projects.qmd){.btn .btn-primary .btn-lg}
+[View CV](cv.qmd){.btn .btn-outline-primary .btn-lg}
+[Contact](contact.qmd){.btn .btn-outline-secondary .btn-lg}
+
+:::
+
+::: {.hero-photo}
+![](images/Shad_PIC.png)
+:::
+
+:::
+:::
+
+::: {.metric-grid}
+::: {.metric-card}
+**29**
+Documented projects
+:::
+::: {.metric-card}
+**3**
+Analytics internships
+:::
+::: {.metric-card}
+**1M+**
+Raw records analysed
+:::
+::: {.metric-card}
+**183**
+Countries in one study
+:::
+:::
+
+## Professional focus
+
+::: {.focus-grid}
+
+::: {.focus-card}
+### 📊 Economic Research
+Time-series analysis, VAR/SVAR/VECM, causality and cointegration testing.
+:::
+
+::: {.focus-card}
+### 🧹 Data Engineering
+Data cleaning, validation, SQL analytics, reproducible reporting pipelines.
+:::
+
+::: {.focus-card}
+### 📈 Business Intelligence
+Power BI and Tableau dashboards, KPI reporting, decision-ready insights.
+:::
+
+::: {.focus-card}
+### 🤖 Machine Learning
+Statistical modelling, forecasting, NLP, and RAG pipelines.
+:::
+
+:::

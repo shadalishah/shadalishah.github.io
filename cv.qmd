@@ -1,0 +1,50 @@
+## Master CV
+
+My Master CV presents my combined background in Economics, Econometrics, Economic Research, Data Analytics, Data Science, Machine Learning, and Business Intelligence.
+
+For specific job applications, I tailor this CV according to the position requirements while keeping all qualifications and experience accurate.
+
+<div class="cv-actions">
+
+  <a
+    href="files/Shad_Ali_Shah_Master_CV.pdf"
+    download="Shad_Ali_Shah_Master_CV.pdf"
+    class="cv-button">
+    Download Master CV
+  </a>
+
+</div>
+
+## CV Format
+
+The Master CV is available in PDF format for downloading and sharing with recruiters.
+
+<style>
+
+.cv-actions {
+  display: flex;
+  margin: 20px 0 25px 0;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.cv-button {
+  display: inline-block;
+  padding: 11px 20px;
+  border: 1px solid #333;
+  border-radius: 6px;
+  background: transparent;
+  color: inherit;
+  text-decoration: none !important;
+  font-family: inherit;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.cv-button:hover {
+  opacity: 0.75;
+}
+
+</style>

@@ -1,0 +1,17 @@
+---
+title: "Publications & Research Output"
+---
+
+## Documented GitHub work
+
+I have published and documented **29 project repositories on GitHub** across Economics, Econometrics, Data Analytics, Data Science, Machine Learning, Business Intelligence, forecasting, NLP, and RAG.
+
+These repositories include code, notebooks, analytical reports, dashboards, visualizations, model outputs, and reproducible documentation where available.
+
+[View GitHub repositories](https://github.com/shadalishah){.btn .btn-primary}
+
+## Research papers in progress
+
+I have started working on research papers related to my academic and analytical interests. These papers are currently **works in progress** and will be listed here only after reaching an appropriate publication or preprint stage.
+
+> This section distinguishes published GitHub project work from academic papers currently in development.

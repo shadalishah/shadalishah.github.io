@@ -1,0 +1,38 @@
+---
+title: "Education"
+description: "Academic qualifications in Economics, Econometrics, Applied Economics, Data Science, and Machine Learning."
+---
+
+## MPhil Economics
+
+**Quaid-i-Azam University, Islamabad**  
+**2025–2026 | CGPA: 3.50/4.00**
+
+Completed all coursework and finished the thesis within the applicable academic timeline. The completed thesis has written approval from the faculty supervisor; formal university submission remains pending until the university’s prescribed submission period.
+
+**Focus Areas:** Applied Economics, Econometrics, Macroeconomics, Quantitative Research, Time-Series Analysis, Data Science, and Machine Learning.
+
+**Current Status:** Available for full-time employment.
+
+---
+
+## BS Economics — Graduated with Distinction
+
+**Kohat University of Science and Technology**  
+**2020–2024 | CGPA: 3.89/4.00**
+
+Graduated with Distinction after completing quantitative and research-based coursework in Economics.
+
+**Relevant Coursework:** Econometrics, Applied Econometrics, Statistics, Mathematical Economics, Macroeconomics, Microeconomics, Development Economics, Monetary Economics, Financial Institutions and Markets, Public Finance and Fiscal Policy, and Research Methodology.
+
+**Undergraduate Thesis:** *The Influence of Biofuel Consumption on Environmental Sustainability in Developed Countries.*
+
+---
+
+## Academic Foundation
+
+My academic background combines economic theory, applied econometrics, statistical analysis, quantitative research, forecasting, and data-driven approaches to economic and policy questions.
+
+[Economic Analysis](economic-analysis.qmd){.btn .btn-outline-primary}
+
+[View Master CV](cv.qmd){.btn .btn-outline-secondary}

@@ -1,0 +1,45 @@
+---
+title: "About"
+description: "Professional profile, expertise, and career focus of Shad Ali Shah."
+---
+
+## Professional Profile
+
+I am an entry-level Economics and Data professional with completed **MPhil Economics coursework and thesis**, ongoing experience as a **Graduate Research Assistant**, three Data Science and AI/ML internships, and 29 documented multidisciplinary projects.
+
+My background combines **Applied Economics, Econometrics, Economic Research, Data Analytics, Business Intelligence, Data Science, and Machine Learning**. I use Python, SQL, R, Stata, EViews, Excel, Power BI, and Tableau to clean and analyse data, develop models and forecasts, create dashboards, and communicate actionable insights.
+
+## Areas of Expertise
+
+- Economic research, applied econometrics, and policy analysis
+- Quantitative analysis, statistical modelling, and time-series forecasting
+- Data cleaning, validation, exploratory data analysis, and SQL analytics
+- Power BI and Tableau dashboards, KPI reporting, and business intelligence
+- Regression, classification, clustering, predictive modelling, NLP, and RAG
+- Reproducible analysis, research documentation, and technical reporting
+
+## Professional Experience
+
+My experience includes faculty-supervised economic research at **Quaid-i-Azam University**, three analytics internships, and independent project work across economic, financial, customer, employment, and transactional datasets.
+
+[Explore Projects](projects.qmd){.btn .btn-outline-primary}
+
+## Career Interests
+
+I am interested in entry-level opportunities as a:
+
+- Data Analyst
+- Economic Analyst
+- Economic Research Analyst
+- Business Intelligence Analyst
+- Quantitative Analyst
+- Associate Data Scientist
+- Junior Machine Learning Professional
+
+## Location and Availability
+
+Based in **Islamabad, Pakistan** and available for full-time employment. Open to onsite, hybrid, and remote opportunities across Pakistan, and willing to relocate to any city for the right opportunity. Also open to employer-sponsored international opportunities.
+
+[View Master CV](cv.qmd){.btn .btn-primary}
+
+[Contact Me](contact.qmd){.btn .btn-outline-secondary}

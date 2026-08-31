@@ -1,0 +1,88 @@
+---
+title: "Projects"
+description: "Selected projects across Economics, Econometrics, Data Analytics, Data Science, Machine Learning, Business Intelligence, NLP, and RAG."
+---
+
+## Selected Portfolio
+
+The following projects demonstrate applied work across economic research, econometrics, statistical modelling, forecasting, SQL analytics, dashboards, Machine Learning, NLP, and Retrieval-Augmented Generation.
+
+::: {.project-list}
+
+::: {.project-card}
+### Pakistan Macroeconomic Dynamics
+
+**Focus:** Macroeconomics, Econometrics, and Time-Series Analysis
+**Tools:** VAR, SVAR, VECM, ARIMA, R, Stata, and Quarto
+
+Applied macroeconometric methods to more than 44 quarters of data covering GDP, government spending, tax revenue, inflation, and the policy rate. Conducted stationarity testing, cointegration analysis, Granger causality, impulse-response analysis, and forecasting.
+
+[View on GitHub](https://github.com/shadalishah/Macroeconomic-Time-Series-Analysis-VAR-SVAR-VECM){.btn .btn-primary .btn-lg}
+:::
+
+::: {.project-card}
+### Pakistan E-Commerce Analytics
+
+**Focus:** Customer Analytics, Segmentation, and Forecasting
+**Tools:** Python, Pandas, K-Means, Prophet, and Statistical Analysis
+
+Cleaned more than one million raw records into 584,524 validated transactions covering 115,326 customers. Applied customer segmentation, customer lifetime-value analysis, clustering, and sales forecasting to produce analytical findings and recommendations.
+
+[View on GitHub](https://github.com/shadalishah/Pakistan-E-Commerce-Data-Analysis-2016-2018-){.btn .btn-primary .btn-lg}
+:::
+
+::: {.project-card}
+### Advanced SQL Analytics with Google BigQuery
+
+**Focus:** SQL Analytics, Customer Analysis, and KPI Reporting
+**Tools:** SQL, Google BigQuery, CTEs, and Window Functions
+
+Queried and segmented 50,000 customer records using SQL, Common Table Expressions, window functions, ranking methods, and data-quality checks. Produced customer-value analysis, churn insights, KPI summaries, and decision-ready outputs.
+
+[View on GitHub](https://github.com/shadalishah/Basic-to-Advanced-SQL-Analytics-with-Google-BigQuery){.btn .btn-primary .btn-lg}
+:::
+
+::: {.project-card}
+### Pakistan and Global Employment Analytics
+
+**Focus:** Labour Economics, Policy Analysis, and Business Intelligence
+**Tools:** Tableau, World Bank Data, Trend Analysis, and Forecasting
+
+Analysed more than 57,500 employment observations across 183 countries. Examined long-term labour-market and gender trends, developed forecasts through 2030, and presented the findings through an interactive Tableau dashboard.
+
+[View on GitHub](https://github.com/shadalishah/Pakistan-Global-Employment-Analytics-Tableau){.btn .btn-primary .btn-lg}
+:::
+
+::: {.project-card}
+### NewsSense-BERT
+
+**Focus:** Natural Language Processing, Text Analytics, and Transformer Research
+**Tools:** Python, Pandas, NLTK, Scikit-learn, Named Entity Recognition, and BERT
+
+Conducted an NLP and BERT feasibility study using 120,000 AG News training articles across four categories. Performed text profiling, preprocessing, n-gram analysis, Named Entity Recognition, and transformer-architecture planning.
+
+[View on GitHub](https://github.com/shadalishah/NewsSense-BERT){.btn .btn-primary .btn-lg}
+:::
+
+::: {.project-card}
+### BankWise AI RAG Assistant
+
+**Focus:** Generative AI, Banking Information, and Retrieval-Augmented Generation
+**Tools:** Python, NLP, and RAG
+
+Developed a banking-focused Retrieval-Augmented Generation project designed to retrieve relevant information and support structured responses to banking-related queries.
+
+[View on GitHub](https://github.com/shadalishah/BankWise-AI-RAG-Assistant){.btn .btn-primary .btn-lg}
+:::
+
+:::
+
+## Complete Project Portfolio
+
+I maintain **29 documented GitHub repositories** covering Economics, Econometrics, Data Analytics, Data Science, Machine Learning, Business Intelligence, forecasting, SQL, NLP, and RAG.
+
+These repositories contain code, notebooks, analytical reports, dashboards, visualizations, model outputs, and reproducible documentation where available.
+
+[View All GitHub Repositories](https://github.com/shadalishah){.btn .btn-primary .btn-lg}
+[Economic Analysis Projects](economic-analysis.qmd){.btn .btn-outline-primary .btn-lg}
+[Data Science & ML Projects](data-science.qmd){.btn .btn-outline-secondary .btn-lg}

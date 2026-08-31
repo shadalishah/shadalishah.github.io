@@ -1,0 +1,11 @@
+---
+title: "Economic Analysis"
+---
+
+## Areas of work
+
+- Macroeconomics and applied econometrics
+- VAR, SVAR, VECM, and ARIMA
+- Stationarity, cointegration, causality, IRFs, and FEVD
+- Economic forecasting and policy-oriented analysis
+- Financial economics and labour-market analytics

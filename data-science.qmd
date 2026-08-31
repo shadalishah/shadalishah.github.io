@@ -1,0 +1,11 @@
+---
+title: "Data Science & Machine Learning"
+---
+
+## Methods
+
+Regression, classification, clustering, forecasting, feature engineering, model evaluation, NLP, transformer feasibility analysis, and retrieval-augmented generation.
+
+## Tools
+
+Python, Pandas, NumPy, Scikit-learn, TensorFlow/Keras, SQL, Google BigQuery, R, Power BI, Tableau, Google Colab, Git, and GitHub.

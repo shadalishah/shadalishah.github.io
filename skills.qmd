@@ -1,0 +1,126 @@
+---
+title: "Skills"
+description: "Technical and research skills across Economics, Econometrics, Data Analytics, Business Intelligence, Data Science, and Machine Learning."
+---
+
+## Core Expertise
+
+My technical background combines **Economics and Econometrics** with practical capabilities in **Data Analytics, Business Intelligence, Data Science, Machine Learning, forecasting, and research reporting**.
+
+::: {.focus-grid}
+
+::: {.focus-card}
+
+### Economics & Econometrics
+
+- Applied Economics
+- Economic Research
+- Macroeconomics
+- Financial Economics
+- Policy Analysis
+- Applied Econometrics
+- Time-Series Analysis
+- Statistical Modelling
+- Forecasting
+
+:::
+
+::: {.focus-card}
+
+### Econometric Methods
+
+- Vector Autoregression (VAR)
+- Structural Vector Autoregression (SVAR)
+- Vector Error Correction Model (VECM)
+- ARIMA and ARMA Modelling
+- ADF and KPSS Unit Root Tests
+- Johansen Cointegration
+- Granger Causality
+- Impulse Response Functions
+- Forecast Error Variance Decomposition
+
+:::
+
+::: {.focus-card}
+
+### Data Analytics & Business Intelligence
+
+- Data Collection and Preparation
+- Data Cleaning and Validation
+- Exploratory Data Analysis
+- SQL Analytics
+- Google BigQuery
+- Microsoft Excel
+- Microsoft Power BI
+- Tableau
+- KPI Reporting
+- Dashboard Development
+- Data Visualization
+- Business Insights
+
+:::
+
+::: {.focus-card}
+
+### Data Science & Machine Learning
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Regression
+- Classification
+- Random Forest
+- K-Means Clustering
+- Feature Engineering
+- Predictive Modelling
+- Model Evaluation
+- Forecasting
+
+:::
+
+::: {.focus-card}
+
+### AI, NLP & RAG
+
+- Natural Language Processing
+- Text Preprocessing
+- N-Gram Analysis
+- Named Entity Recognition
+- BERT Feasibility Analysis
+- Retrieval-Augmented Generation
+- Generative AI Applications
+- Technical Workflow Documentation
+
+:::
+
+::: {.focus-card}
+
+### Research & Reporting Tools
+
+- R
+- Stata
+- EViews
+- Python
+- Jupyter Notebook
+- Google Colab
+- Quarto
+- LaTeX
+- Git and GitHub
+- Reproducible Analysis
+- Research Documentation
+- Technical Reporting
+
+:::
+
+:::
+
+## How I Apply These Skills
+
+I use these tools and methods to clean and analyse economic and business datasets, estimate statistical and econometric models, identify trends and relationships, develop forecasts, build dashboards, evaluate Machine Learning models, and communicate findings through clear reports and visualizations.
+
+[Projects](projects.qmd){.btn .btn-primary}
+
+[Experience](experience.qmd){.btn .btn-outline-primary}
+
+[GitHub](https://github.com/shadalishah){.btn .btn-outline-secondary target="_blank"}

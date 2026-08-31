@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Shad Ali Shah"
+  description: "Economics, Econometrics, Data Analytics, Data Science, and Machine Learning portfolio"
+  site-url: https://shadalishah.com
+  favicon: assets/img/favicon.png
+  navbar:
+    background: dark
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: experience.qmd
+        text: Experience
+      - text: Work
+        menu:
+          - href: projects.qmd
+            text: Projects
+          - href: economic-analysis.qmd
+            text: Economic Analysis
+          - href: data-science.qmd
+            text: Data Science & ML
+      - href: publications.qmd
+        text: Publications
+      - href: skills.qmd
+        text: Skills
+      - href: education.qmd
+        text: Education
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/shadalishah
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/shadalishah/
+        aria-label: LinkedIn
+  page-footer:
+    left: "© 2026 Shad Ali Shah"
+    right: "Built with RStudio and Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: assets/css/styles.css
+    toc: true
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto
