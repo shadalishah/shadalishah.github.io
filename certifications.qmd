@@ -1,0 +1,272 @@
+---
+title: "Certifications"
+description: "Professional credentials earned by Shad Ali Shah from leading global organizations and universities across Data Science, Data Analytics, Machine Learning, Business Intelligence, Artificial Intelligence, Economics, and Research Methods."
+toc: true
+toc-depth: 2
+---
+
+# Credentials from Leading Global Organizations and Universities
+
+I have completed professional certificates and specializations from globally recognized organizations and universities, including **IBM, Microsoft, Google, DeepLearning.AI, Stanford Online, Vanderbilt University, the University of Michigan, the University of Maryland, and the Hong Kong University of Science and Technology**.
+
+These credentials complement my academic background in Economics and strengthen my practical capabilities in **Data Analytics, Data Science, Machine Learning, Business Intelligence, Artificial Intelligence, survey research, financial analysis, and statistical modelling**.
+
+The verification buttons below provide access to official credential pages where links are currently available.
+
+---
+
+## IBM Data Science Professional Certificate
+
+**Issuing Organization:** IBM
+**Platform:** Coursera
+**Issued:** August 2026
+**Credential ID:** 4BTN1RSZ65M7
+
+Completed a 12-course professional certificate covering Python, SQL, relational databases, data analysis, data visualization, Machine Learning, Jupyter Notebook, Pandas, Scikit-learn, and an applied Data Science capstone.
+
+<div class="credential-actions">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/4BTN1RSZ65M7"
+     class="btn btn-primary"
+     target="_blank"
+     rel="noopener noreferrer">
+     Verify IBM Credential
+  </a>
+</div>
+
+---
+
+## Microsoft Power BI Data Analyst Professional Certificate
+
+**Issuing Organization:** Microsoft
+**Platform:** Coursera
+**Issued:** June 2025
+**Credential ID:** UZIZN8PBP05Y
+
+Completed professional training in Microsoft Excel, data preparation, data transformation, data modelling, Power BI, dashboard development, DAX, data visualization, reporting, and preparation for the PL-300 examination.
+
+<div class="credential-actions">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/UZIZN8PBP05Y"
+     class="btn btn-primary"
+     target="_blank"
+     rel="noopener noreferrer">
+     Verify Power BI Credential
+  </a>
+</div>
+
+> This is the Microsoft Power BI Data Analyst Professional Certificate delivered through Coursera. It is separate from the Microsoft Certified: Power BI Data Analyst Associate credential, which requires passing the official PL-300 examination.
+
+---
+
+## Machine Learning Specialization
+
+**Issuing Organizations:** DeepLearning.AI and Stanford Online
+**Platform:** Coursera
+**Issued:** June 2026
+**Credential ID:** GCGXFRKHWX6J
+
+Completed training in supervised Machine Learning, regression, classification, neural networks, decision trees, ensemble methods, unsupervised learning, recommender systems, and reinforcement learning.
+
+<div class="credential-actions">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/GCGXFRKHWX6J"
+     class="btn btn-primary"
+     target="_blank"
+     rel="noopener noreferrer">
+     Verify Machine Learning Credential
+  </a>
+</div>
+
+---
+
+## Google Advanced Data Analytics Professional Certificate
+
+**Issuing Organization:** Google
+**Platform:** Coursera
+**Issued:** January 2025
+**Credential ID:** OJJOQOSMT664
+
+Completed advanced training in Python, statistics, regression analysis, experimental design, Machine Learning, predictive modelling, data visualization, and analytical communication.
+
+<div class="credential-actions">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/OJJOQOSMT664"
+     class="btn btn-primary"
+     target="_blank"
+     rel="noopener noreferrer">
+     Verify Google Advanced Data Analytics Credential
+  </a>
+</div>
+
+---
+
+## Google Data Analytics Professional Certificate
+
+**Issuing Organization:** Google
+**Platform:** Coursera
+**Issued:** March 2025
+**Credential ID:** AJGEJMH037MP
+
+Completed professional training in data cleaning, spreadsheet analysis, SQL, exploratory data analysis, data visualization, analytical thinking, and communication of data-driven findings.
+
+<div class="credential-actions">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/AJGEJMH037MP"
+     class="btn btn-primary"
+     target="_blank"
+     rel="noopener noreferrer">
+     Verify Google Data Analytics Credential
+  </a>
+</div>
+
+---
+
+## Google Business Intelligence Professional Certificate
+
+**Issuing Organization:** Google
+**Platform:** Coursera
+**Credential ID:** CVUMML7GDTWW
+
+Completed training in Business Intelligence, data preparation, data modelling, ETL concepts, dashboard development, KPI reporting, stakeholder requirements, and decision-support reporting.
+
+<div class="credential-actions">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/CVUMML7GDTWW"
+     class="btn btn-primary"
+     target="_blank"
+     rel="noopener noreferrer">
+     Verify Google Business Intelligence Credential
+  </a>
+</div>
+
+---
+
+## Microsoft AI & ML Engineering Professional Certificate
+
+**Issuing Organization:** Microsoft
+**Platform:** Coursera
+**Issued:** June 2025
+**Credential ID:** 2MVG11Y3SL07
+
+Completed applied training in Artificial Intelligence, Machine Learning workflows, Python-based modelling, data preparation, model evaluation, and AI solution development.
+
+<div class="credential-actions">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/2MVG11Y3SL07"
+     class="btn btn-primary"
+     target="_blank"
+     rel="noopener noreferrer">
+     Verify Microsoft AI and ML Credential
+  </a>
+</div>
+
+---
+
+## Generative AI Data Analyst Professional Certificate
+
+**Issuing Organization:** Vanderbilt University
+**Platform:** Coursera
+**Credential ID:** 4WCDWBZCNER9
+
+Completed training in Generative AI applications for data analysis, prompt-based analytical workflows, data interpretation, reporting, and the responsible use of AI-assisted analytical tools.
+
+<div class="credential-actions">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/4WCDWBZCNER9"
+     class="btn btn-primary"
+     target="_blank"
+     rel="noopener noreferrer">
+     Verify Generative AI Data Analyst Credential
+  </a>
+</div>
+
+---
+
+## Survey Data Collection and Analytics Specialization
+
+**Issuing Organizations:** University of Maryland and University of Michigan
+**Platform:** Coursera
+**Issued:** May 2025
+**Credential ID:** O1AHU12XT3NK
+
+Completed training in questionnaire design, sampling, online and interviewer-administered survey methods, data collection, missing data, survey quality, and analysis of complex survey datasets.
+
+<div class="credential-actions">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/O1AHU12XT3NK"
+     class="btn btn-primary"
+     target="_blank"
+     rel="noopener noreferrer">
+     Verify Survey Data Collection and Analytics Credential
+  </a>
+</div>
+
+---
+
+## Python and Statistics for Financial Analysis
+
+**Issuing Organization:** The Hong Kong University of Science and Technology
+**Platform:** Coursera
+**Credential ID:** 7ZCMSQY53FIT
+
+Completed applied training in Python, descriptive statistics, probability, financial-data analysis, regression, and quantitative interpretation.
+
+<div class="credential-actions">
+  <a href="https://www.coursera.org/account/accomplishments/verify/7ZCMSQY53FIT"
+     class="btn btn-primary"
+     target="_blank"
+     rel="noopener noreferrer">
+     Verify Python and Statistics for Financial Analysis Credential
+  </a>
+</div>
+
+---
+
+## Regression and Modelling with Stata
+
+**Platform:** Coursera
+**Credential ID:** MNWOXBK003QO
+Completed applied training in regression analysis, statistical modelling, diagnostic testing, interpretation, and quantitative analysis using Stata.
+
+<div class="credential-actions">
+  <a href="https://www.coursera.org/account/accomplishments/verify/MNWOXBK003QO"
+     class="btn btn-primary"
+     target="_blank"
+     rel="noopener noreferrer">
+     Verify Regression and Modelling with Stata Credential
+  </a>
+</div>
+
+---
+
+## Areas Supported by These Credentials
+
+These professional credentials support my capabilities in:
+
+- Data Analytics and Business Intelligence
+- Data Science and Machine Learning
+- Python, SQL, R, Excel, and Power BI
+- Statistical and Econometric Modelling
+- Predictive Analytics and Forecasting
+- Artificial Intelligence and Generative AI
+- Survey Research and Data Collection
+- Financial and Economic Data Analysis
+- Data Visualization and Analytical Reporting
+- Reproducible Research and Technical Documentation
+
+---
+
+## Practical Application
+
+I apply the knowledge gained through these programs to documented projects involving economic research, econometrics, customer analytics, employment analysis, forecasting, SQL analytics, dashboards, Machine Learning, Natural Language Processing, and Retrieval-Augmented Generation.
+
+<div class="credential-navigation">
+  <a href="projects.html"
+     class="btn btn-outline-secondary">
+     Explore Projects
+  </a>
+
+  <a href="skills.html"
+     class="btn btn-outline-secondary">
+     View Skills
+  </a>
+
+  <a href="https://github.com/shadalishah"
+     class="btn btn-outline-secondary"
+     target="_blank"
+     rel="noopener noreferrer">
+     View GitHub Portfolio
+  </a>
+</div>

@@ -30,6 +30,8 @@ website:
         text: Skills
       - href: education.qmd
         text: Education
+      - href: certifications.qmd
+        text: Certifications
       - href: cv.qmd
         text: CV
       - href: contact.qmd
