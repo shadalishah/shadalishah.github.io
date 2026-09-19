@@ -15,7 +15,9 @@ The following projects demonstrate applied work across economic research, econom
 **Focus:** Macroeconomics, Econometrics, and Time-Series Analysis
 **Tools:** VAR, SVAR, VECM, ARIMA, R, Stata, and Quarto
 
-Applied macroeconometric methods to more than 44 quarters of data covering GDP, government spending, tax revenue, inflation, and the policy rate. Conducted stationarity testing, cointegration analysis, Granger causality, impulse-response analysis, and forecasting.
+- Analysed **Pakistan’s 2010–2020 quarterly GDP, spending, revenue, inflation, and interest-rate data** to assess **fiscal-monetary linkages**.
+- Applied **ADF/KPSS, ARIMA/ARMA, VAR, Granger causality, IRFs, FEVD, and short-run identified SVAR** in **Python**.
+- Identified **mixed I(0)/I(1) series and no cointegration**, supporting **first-differenced VAR**; delivered a **reproducible policy-analysis report**.
 
 [View on GitHub](https://github.com/shadalishah/Macroeconomic-Time-Series-Analysis-VAR-SVAR-VECM){.btn .btn-primary .btn-lg}
 :::
@@ -26,7 +28,9 @@ Applied macroeconometric methods to more than 44 quarters of data covering GDP, 
 **Focus:** Customer Analytics, Segmentation, and Forecasting
 **Tools:** Python, Pandas, K-Means, Prophet, and Statistical Analysis
 
-Cleaned more than one million raw records into 584,524 validated transactions covering 115,326 customers. Applied customer segmentation, customer lifetime-value analysis, clustering, and sales forecasting to produce analytical findings and recommendations.
+- Cleaned **1,048,575 raw rows** into **584,524 records** with **32 engineered features** and analysed **115,326 customers**.
+- Applied **RFM/K-Means segmentation**, **Prophet/LightGBM forecasting**, and **XGBoost-SHAP churn modelling** to identify customer and sales patterns.
+- Segmented **60,367 customers** into **six RFM groups**; **Prophet achieved 35.9% MAPE versus 46.3% for LightGBM**.
 
 [View on GitHub](https://github.com/shadalishah/Pakistan-E-Commerce-Data-Analysis-2016-2018-){.btn .btn-primary .btn-lg}
 :::
@@ -37,7 +41,9 @@ Cleaned more than one million raw records into 584,524 validated transactions co
 **Focus:** SQL Analytics, Customer Analysis, and KPI Reporting
 **Tools:** SQL, Google BigQuery, CTEs, and Window Functions
 
-Queried and segmented 50,000 customer records using SQL, Common Table Expressions, window functions, ranking methods, and data-quality checks. Produced customer-value analysis, churn insights, KPI summaries, and decision-ready outputs.
+- Analysed **50,000 e-commerce customer records** to assess **data quality, churn, retention, and executive KPIs** using **Google BigQuery and SQL**; identified a **28.9% overall churn rate** across 14,450 records.
+- Compared churned and retained customers using **SQL aggregations, CTEs, and behavioural analysis**; found lower engagement among churned records, including **9.12 vs 12.64 average logins** and **64.18% vs 54.19% cart abandonment**.
+- Segmented customers by **lifetime value and behavioural risk** using **NTILE(), window functions, CTEs, and joins**; identified a **High Risk segment with 90.28% observed churn** and quantified **$7.23M lifetime value at risk** in the US.
 
 [View on GitHub](https://github.com/shadalishah/Basic-to-Advanced-SQL-Analytics-with-Google-BigQuery){.btn .btn-primary .btn-lg}
 :::
@@ -48,7 +54,9 @@ Queried and segmented 50,000 customer records using SQL, Common Table Expression
 **Focus:** Labour Economics, Policy Analysis, and Business Intelligence
 **Tools:** Tableau, World Bank Data, Trend Analysis, and Forecasting
 
-Analysed more than 57,500 employment observations across 183 countries. Examined long-term labour-market and gender trends, developed forecasts through 2030, and presented the findings through an interactive Tableau dashboard.
+- Analysed **~57,500 employment-rate observations** across **183 countries** from **1991–2025** to assess **Pakistan’s employment trends by gender** and benchmark global performance.
+- Built an interactive **Tableau dashboard** using **trend analysis**, **forecasting**, data visualization, and country/sex filters to project Pakistan’s employment trends through **2030**.
+- Found male employment declined from **90.61% (1998) to 83.54% (2020)**, while female employment more than doubled from **13.39% (1995) to 25%+ by 2025**; female employment was **forecast at 25.53% for 2030**.
 
 [View on GitHub](https://github.com/shadalishah/Pakistan-Global-Employment-Analytics-Tableau){.btn .btn-primary .btn-lg}
 :::
@@ -59,7 +67,9 @@ Analysed more than 57,500 employment observations across 183 countries. Examined
 **Focus:** Natural Language Processing, Text Analytics, and Transformer Research
 **Tools:** Python, Pandas, NLTK, Scikit-learn, Named Entity Recognition, and BERT
 
-Conducted an NLP and BERT feasibility study using 120,000 AG News training articles across four categories. Performed text profiling, preprocessing, n-gram analysis, Named Entity Recognition, and transformer-architecture planning.
+- Analysed **120,000 AG News articles** across four categories to assess data quality, class balance, text characteristics, and category-specific language patterns.
+- Applied **NLP preprocessing, n-gram analysis, Named Entity Recognition (NER)**, and comparative **ML/DL/Transformer** assessment to evaluate BERT suitability and feature strategy.
+- Determined a Title + [SEP] + Description input structure with **128-token sequences** covering 99%+ of samples, and designed an end-to-end **BERT** architecture and evaluation plan using the **7,600-article test set**.
 
 [View on GitHub](https://github.com/shadalishah/NewsSense-BERT){.btn .btn-primary .btn-lg}
 :::
@@ -70,7 +80,9 @@ Conducted an NLP and BERT feasibility study using 120,000 AG News training artic
 **Focus:** Generative AI, Banking Information, and Retrieval-Augmented Generation
 **Tools:** Python, NLP, and RAG
 
-Developed a banking-focused Retrieval-Augmented Generation project designed to retrieve relevant information and support structured responses to banking-related queries.
+- Built a banking support assistant using a **1,000-entry knowledge base** to provide grounded answers to domain-specific banking questions and reduce hallucination risk.
+- Designed an end-to-end **RAG pipeline** using **LangChain, FAISS, Hugging Face embeddings, and Google Gemini**, with 500-character chunking and 50-character overlap for context-preserving retrieval.
+- Audited the knowledge base and achieved a **100% data-quality score with zero missing values**; packaged the solution as a **Streamlit** application with retrieval/generation diagnostics and deployment files.
 
 [View on GitHub](https://github.com/shadalishah/BankWise-AI-RAG-Assistant){.btn .btn-primary .btn-lg}
 :::
@@ -79,7 +91,7 @@ Developed a banking-focused Retrieval-Augmented Generation project designed to r
 
 ## Complete Project Portfolio
 
-I maintain **29 documented GitHub repositories** covering Economics, Econometrics, Data Analytics, Data Science, Machine Learning, Business Intelligence, forecasting, SQL, NLP, and RAG.
+I maintain **30+ documented GitHub repositories** covering Economics, Econometrics, Data Analytics, Data Science, Machine Learning, Business Intelligence, forecasting, SQL, NLP, and RAG.
 
 These repositories contain code, notebooks, analytical reports, dashboards, visualizations, model outputs, and reproducible documentation where available.
 

@@ -10,7 +10,10 @@ toc: false
 ::: {.hero-copy}
 
 ::: {.eyebrow}
-ECONOMICS · DATA SCIENCE · MACHINE LEARNING
+ECONOMIST | DATA SCIENTIST | DATA ANALYST | BUSINESS
+INTELLIGENCE ANALYST | Python, R, SQL, Power BI | I Help
+Businesses Turn Data Into Insights – Quantified 28.9% Churn
+Across 50K+ Customers, 30+ Projects
 :::
 
 # Turning complex data into evidence-based decisions
@@ -32,7 +35,7 @@ I combine **Applied Economics, Econometrics, Data Analytics, Data Science, and M
 
 ::: {.metric-grid}
 ::: {.metric-card}
-**29**
+**30+**
 Documented projects
 :::
 ::: {.metric-card}

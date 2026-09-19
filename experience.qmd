@@ -3,52 +3,63 @@ title: "Experience"
 description: "Research, Data Science, Machine Learning, and independent analytics experience of Shad Ali Shah."
 ---
 
-## Graduate Research Assistant
+## Graduate Research Assistant — Economics & Data Science
 
 **Quaid-i-Azam University, Islamabad | February 2026–Present | Hybrid**
 
-- Review economic literature and organize evidence for faculty-supervised research.
-- Collect, clean, validate, and maintain datasets using Python and Google Colab.
-- Conduct quantitative and statistical analysis and prepare analytical tables, visualizations, and findings summaries.
-- Document research methods and maintain reproducible analytical workflows and structured research outputs.
-
-## Independent Economic & Data Science Analyst
-
-**Self-Directed | GitHub | March 2025–Present | Remote**
-
-- Conduct independent analysis across Economics, Econometrics, Data Analytics, Data Science, and Machine Learning.
-- Apply Python, SQL, R, Stata, EViews, Scikit-learn, Google BigQuery, Power BI, and Tableau to economic and business datasets.
-- Develop reproducible notebooks, predictive models, forecasts, dashboards, visualizations, analytical tables, and research summaries.
-- Maintain documented independent and academic/research work within a broader portfolio of 29 GitHub projects.
-
-[View GitHub Portfolio](https://github.com/shadalishah){.btn .btn-outline-primary}
+- Review economic literature and synthesise evidence for faculty-supervised research, producing structured references
+and findings summaries.
+- Collect, clean, validate, and maintain research datasets using Python and Google Colab, supporting accurate quantitative
+and econometric analysis.
+- Analyse research data and produce tables, visualisations, and structured findings while maintaining reproducible
+analytical workflows
 
 ## Data Science Intern
 
 **Arch Technologies | 1 May–30 June 2026 | Remote**
 
-- Completed projects in classification, stock-price forecasting, customer segmentation, and movie-rating prediction.
-- Applied Python, Pandas, NumPy, Scikit-learn, TensorFlow/Keras, K-Means, Random Forest, and statistical evaluation methods.
-- Segmented 1,000 customer records into six interpretable groups and produced customer profiles and business recommendations.
-- Documented data preparation, model evaluation, visualizations, findings, and reproducible analytical workflows.
+- Built and compared Logistic Regression and Random Forest classifiers on 891 passenger records; Random Forest
+achieved **81.56% accuracy** and 78.22% F1-score.
+- Forecasted Apple trading prices using 2,517 observations with Linear Regression and LSTM; Linear Regression achieved
+**99.2% R-squared**, $2.64 MAE, and $3.71 RMSE.
+- Segmented 1,000 customer records into **six interpretable groups** using K-Means, supporting customer profiling and
+behavioural analysis.
 
 ## Data Science Intern
 
 **CodeAlpha | 10 May–10 June 2026 | Remote**
 
-- Developed advertising-sales and used-car-price prediction workflows using Python, Pandas, and Scikit-learn.
-- Compared Linear Regression, Random Forest, and Gradient Boosting using MAE, RMSE, and R-squared.
-- Achieved an R-squared of 98.13% with a Random Forest model in the advertising-sales project.
-- Documented data cleaning, exploratory data analysis, model comparison, predictions, and analytical findings.
+- Developed advertising-sales prediction models using 200 observations; Random Forest achieved **98.13% R-squared**,
+0.6201 MAE, and 0.7686 RMSE.
+- Compared Linear Regression, Random Forest, and Gradient Boosting on 301 used-car records; Linear Regression
+achieved the strongest result at **75.27% R-squared**.
+- Cleaned, validated, encoded, and standardised data using Python and Pandas, producing reproducible datasets and
+documented model comparisons.
 
 ## AI/ML Engineering Intern
 
 **DevelopersHub Corporation | 11 May–22 June 2026 | Remote**
 
-- Developed Python-based workflows for classification, regression, Natural Language Processing, and Retrieval-Augmented Generation applications.
-- Analysed 120,000 news articles using NLP preprocessing, n-gram analysis, Named Entity Recognition, and transformer-feasibility assessment.
-- Designed and documented a BERT-based news-classification workflow and contributed to a banking-focused RAG assistant project.
-- Prepared technical documentation and stakeholder-ready explanations and received the **Best Intern Award**.
+- Analysed **120,000 news articles** using text preprocessing, n-grams, and Named Entity Recognition to identify
+relevant textual patterns.
+- Designed a BERT-based classification workflow and evaluation plan using a 7,600-article test set.
+- Documented NLP, classification, regression, and RAG workflows; earned the Best Intern Award for analytical
+performance, documentation, and timely delivery **Best Intern Award**.
+
+## Independent Economics, Data Science & Analytics Projects | GitHub | 2025-2026
+
+**Self-Directed | GitHub | March 2025–Present | Remote**
+
+- Conducted self-directed analysis across macroeconomic, employment, financial, customer, and transaction datasets,
+producing **30+ documented projects**.
+- Applied econometric, statistical, and machine-learning methods to generate forecasts, identify relationships, classify
+observations, and segment customers.
+- Used Python, R, SQL, Stata, EViews, BigQuery, Power BI, and Tableau to produce analytical models, KPI analyses,
+dashboards, and visualisations.
+- Developed reproducible analytical workflows, notebooks, dashboards, research summaries, and documented GitHub
+repositories.
+
+[View GitHub Portfolio](https://github.com/shadalishah){.btn .btn-outline-primary}
 
 ## Experience Overview
 
